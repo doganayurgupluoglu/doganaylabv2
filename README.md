@@ -2,6 +2,6 @@
 
 Bu repo, **DoganayLab.com** web sitesi için hazırlanmıştır.
 
-🚀 Terminal temalı bir arayüze sahiptir ve **Vite** ile geliştirilmiştir.
+ Terminal temalı bir arayüze sahiptir.
 
 🔗 [doganaylab.com](https://doganaylab.com)

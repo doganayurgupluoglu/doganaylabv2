@@ -101,13 +101,13 @@ document.addEventListener('DOMContentLoaded', () => {
   // Add old terminal boot sequence
   function bootSequence() {
     const bootMessages = [
-      "BIOS Version 1.0.5 (c) 1985-1995",
-      "Memory Test: 640K OK",
-      "Initializing system...",
-      "Loading kernel modules...",
-      "Starting doganay lab services...",
-      "Mounting file systems...",
-      "Establishing connection..."
+        "BIOS Versiyon 1.0.5 (c) 1985-1995",
+        "Bellek Testi: 640K TAMAM",
+        "Sistem başlatılıyor...",
+        "Çekirdek modülleri yükleniyor...",
+        "Doganay lab servisleri başlatılıyor...",
+        "Dosya sistemleri bağlanıyor...",
+        "Bağlantı kuruluyor..."
     ];
     
     let delay = 0;

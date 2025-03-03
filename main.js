@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', () => {
           setTimeout(() => {
             const loginDiv = document.createElement('div');
             loginDiv.className = 'output';
-            loginDiv.textContent = "Login successful. Welcome to Doganay Lab Terminal.";
+            loginDiv.textContent = "Giriş başarılı!. Welcome to Doganay Lab Terminal.";
             terminal.appendChild(loginDiv);
             scrollToBottom();
             
